@@ -26,3 +26,5 @@ bot.on('text', async (message) => {
         console.log(error);
     }
 });
+
+console.log('Bot has been started...');
